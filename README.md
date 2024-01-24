@@ -1,3 +1,11 @@
+Images
+
+![meditatehomepage](https://github.com/Dhiren2002/MeditationAPP/assets/92098541/73b66025-f67c-4a14-a46b-082cc57320eb)
+
+![meditate](https://github.com/Dhiren2002/MeditationAPP/assets/92098541/aa128185-676c-44af-a994-5b641a0ff07e)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
