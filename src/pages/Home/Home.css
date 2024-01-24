@@ -1,0 +1,49 @@
+img {
+    max-width: 100%;
+    height: auto;
+  }
+
+
+  figcaption {
+    position: absolute;
+    bottom: 2rem;
+    margin: 0 2rem;
+    color: white;
+    font-size: 1.5em;
+  }
+
+  @media screen and (max-width: 768px) {
+    figcaption {
+        position: inherit;
+        bottom: inherit;
+        margin: .25rem 0px;
+        font-size: inherit;
+        color: inherit;
+    }
+    .centered {
+        font-size:1em
+    }
+    
+  }
+
+
+
+  /* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+  }
+
+
+  .about {
+    font-size: 1em;
+    font-weight: bold;
+    color: black;
+  }
+
+

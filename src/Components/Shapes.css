@@ -1,0 +1,40 @@
+.dot {
+    height: 225px;
+    width: 225px;
+    background-color: #38B0F4;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+
+  .svg-icons {
+    width: 60;
+    height: 60;
+
+  }
+
+.timer-position{
+  width: 420px;
+  padding-top: 30px;
+  margin: auto;
+  text-align: center;
+  transform: translate(-10%,10%);
+}
+
+
+  .timer {
+    width: 420px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin: auto;
+    text-align: center;
+    transform: translate(40%,-50%);
+  }
+
+  .dot-position {
+    width: 420px;
+    padding-top: 250px;
+    margin: auto;
+    text-align: center;
+
+  }
